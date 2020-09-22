@@ -8,7 +8,7 @@
 
 ## 如何开始
 
-* 克隆地址：`git clone https://`
+* 克隆地址：`git clone https://github.com/humiao7/vue-app.git`
 * 安装项目依赖 `npm install`
 * 启动本地服务 `npm run dev`
 * 打包 vue 项目 `npm run build`
